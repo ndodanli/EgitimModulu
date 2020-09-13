@@ -1,1 +1,1 @@
-# SinavModulu
+Kurumlar için sınav modülü projesi.
