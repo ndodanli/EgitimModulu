@@ -43,7 +43,7 @@ Ayrıca:
 
 **Frontend için [ReactJs]**
 ### Kullanılabilecek kurulum paketleri
-- create-react-app(Client Side Rendering, klasik React)
+- create-react-app(Client Side Rendering, klasik ReactJs)
 - NextJs(Server Side Rendering)
 
 **Temelde kullanılabilecek bazı npm paketleri(Frontend)**
