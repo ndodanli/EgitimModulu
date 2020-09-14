@@ -54,10 +54,10 @@ Ayrıca:
 | connected-react-router | Routing işlemleri(redux ile uyumlu) |
 
 **Düşünülen CSS Frameworkleri**
--Semantic UI
--Bootstrap
--Material UI
--Tailwind
+- Semantic UI
+- Bootstrap
+- Material UI
+- Tailwind
 
 **Database için [PostgreSQL]**
 
