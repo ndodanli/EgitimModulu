@@ -42,7 +42,7 @@ Ayrıca:
 > Not:Authentication işlemleri için **JWT** bazlı doğrulama düşünülebilir**
 
 **Frontend için [ReactJs]**
-###Kullanılabilecek kurulum paketleri
+### Kullanılabilecek kurulum paketleri
 -create-react-app(Client Side Rendering, klasik React)
 -NextJs(Server Side Rendering)
 
