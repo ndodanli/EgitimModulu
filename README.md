@@ -39,12 +39,12 @@ Ayrıca:
 | sequelize | Database bağlantısı ve işlemleri için ORM |
 | pg | PostgreSql işlemleri |
 
-> Not:Authentication işlemleri için **JWT** bazlı doğrulama düşünülebilir**
+> Not: Authentication işlemleri için **JWT** bazlı doğrulama düşünülebilir**
 
 **Frontend için [ReactJs]**
 ### Kullanılabilecek kurulum paketleri
--create-react-app(Client Side Rendering, klasik React)
--NextJs(Server Side Rendering)
+- create-react-app(Client Side Rendering, klasik React)
+- NextJs(Server Side Rendering)
 
 **Temelde kullanılabilecek bazı npm paketleri(Frontend)**
 | Npm Paket| Nedir? |
