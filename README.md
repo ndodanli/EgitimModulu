@@ -74,5 +74,5 @@ Ayrıca:
    [Gereksinim analizi]: <https://github.com/ndodanli/SinavModulu/wiki/Gereksinim-Analizi>
    [NodeJs]: <https://nodejs.org/en/>
    [ReactJs]: <https://reactjs.org//>
-   [PostgreSQL]: <https://www.google.com/search?client=firefox-b-d&q=postgresql>
+   [PostgreSQL]: <https://www.postgresql.org/>
 
