@@ -62,12 +62,7 @@ Ayrıca:
 **Database için [PostgreSQL]**
 
 
-### Yakın zamanda yapılacaklar
-
- - Gereksinim analizinin geliştirilmesi
- - Veritabanı diyagramının oluşturulması
- - Use-case diyagramı çıkarılması
- - Deploy aşaması için ortam araştırılması
+### Geliştirme süreci için araştırmalar devam ediyor...
 
 
    [Proje planı]: <https://github.com/ndodanli/SinavModulu/wiki/AnaSayfa>
