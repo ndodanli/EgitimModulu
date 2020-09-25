@@ -59,7 +59,9 @@ Ayrıca:
 - Material UI
 - Tailwind
 
-**Database için [PostgreSQL]**
+**Database için [PostgreSQL], [MySQL] ya da [MSSQL] düşünülüyor**
+
+**Projenin ürün aşamasında [DOCKER] desteği düşünülüyor
 
 
 ### Geliştirme süreci için araştırmalar devam ediyor...
@@ -70,4 +72,6 @@ Ayrıca:
    [NodeJs]: <https://nodejs.org/en/>
    [ReactJs]: <https://reactjs.org//>
    [PostgreSQL]: <https://www.postgresql.org/>
-
+   [MySQL]: <https://www.mysql.com/>
+   [MSSQL]: <https://www.microsoft.com/tr-tr/sql-server/sql-server-2019>
+   [DOCKER]: <https://www.docker.com/>
