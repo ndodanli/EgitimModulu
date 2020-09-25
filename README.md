@@ -30,7 +30,7 @@ Ayrıca:
 ### Projede kullanılması planlanan teknolojiler
 **Backend için [NodeJs]**
 
-**Temelde kullanılabilecek bazı npm paketleri(Backend)**
+**Temelde kullanılabilecek bazı paketler(Backend)**
 | Npm Paket| Nedir? |
 | ------ | ------ |
 | express | Web sunucu çatısı |
@@ -46,7 +46,7 @@ Ayrıca:
 - create-react-app(Client Side Rendering, klasik ReactJs)
 - NextJs(Server Side Rendering)
 
-**Temelde kullanılabilecek bazı npm paketleri(Frontend)**
+**Temelde kullanılabilecek bazı paketler(Frontend)**
 | Npm Paket| Nedir? |
 | ------ | ------ |
 | axios | HTTP Requests |
