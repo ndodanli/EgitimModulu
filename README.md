@@ -61,7 +61,7 @@ Ayrıca:
 
 **Database için [PostgreSQL], [MySQL] ya da [MSSQL] düşünülüyor**
 
-**Projenin ürün aşamasında [DOCKER] desteği düşünülüyor
+**Projenin ürün aşamasında [DOCKER] desteği düşünülüyor**
 
 
 ### Geliştirme süreci için araştırmalar devam ediyor...
