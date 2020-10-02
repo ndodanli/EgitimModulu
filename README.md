@@ -1,5 +1,4 @@
-# Eğitim Modülü
-
+# Eğitim 
 Eğitim Modülü, eğitim kurumlarının öğretmenleri ve öğrencileri yöneterek kendi eğitim sistemini online olarak uygulayabilecekleri bir uygulamadır.
 
   - Kurumlar
